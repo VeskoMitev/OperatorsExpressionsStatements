@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_01_OddOrEvenIntegers", "Problem_01_OddOrEvenIntegers\Problem_01_OddOrEvenIntegers.csproj", "{2CE8E2E2-9423-41AB-97C0-0778A70BDE19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_03_DivideBy_7_and_5", "Problem_03_DivideBy_7_and_5\Problem_03_DivideBy_7_and_5.csproj", "{723D6F07-18FF-4288-8471-8DCB38D63207}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_02_GravitationOnTheMoon", "Problem_02_GravitationОnТheMoon\Problem_02_GravitationOnTheMoon.csproj", "{AA6BFC4E-B2BA-4701-8F4C-6A8C89CBD72A}"
 EndProject
 Global
@@ -17,6 +19,10 @@ Global
 		{2CE8E2E2-9423-41AB-97C0-0778A70BDE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CE8E2E2-9423-41AB-97C0-0778A70BDE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CE8E2E2-9423-41AB-97C0-0778A70BDE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723D6F07-18FF-4288-8471-8DCB38D63207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723D6F07-18FF-4288-8471-8DCB38D63207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723D6F07-18FF-4288-8471-8DCB38D63207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723D6F07-18FF-4288-8471-8DCB38D63207}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AA6BFC4E-B2BA-4701-8F4C-6A8C89CBD72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AA6BFC4E-B2BA-4701-8F4C-6A8C89CBD72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA6BFC4E-B2BA-4701-8F4C-6A8C89CBD72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
