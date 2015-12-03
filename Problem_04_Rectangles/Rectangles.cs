@@ -3,6 +3,11 @@
     using System;
     class Rectangles
     {
+        /*
+         *  Problem 4.	Rectangles
+
+         * Write an expression that calculates rectangle’s perimeter and area by given width and height.
+         */
         static void Main(string[] args)
         {
             Console.Write("Rectangle width: ");
