@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_17_BookProblem", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_18_ChessboardGame", "Problem_18_ChessboardGame\Problem_18_ChessboardGame.csproj", "{232C3591-388E-4D4E-B330-20AC2D9A49D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_19_KingOfThieves", "Problem_19_KingOfThieves\Problem_19_KingOfThieves.csproj", "{D5ACCF9E-77AE-453D-A1A9-A41953660680}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{232C3591-388E-4D4E-B330-20AC2D9A49D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{232C3591-388E-4D4E-B330-20AC2D9A49D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{232C3591-388E-4D4E-B330-20AC2D9A49D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5ACCF9E-77AE-453D-A1A9-A41953660680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5ACCF9E-77AE-453D-A1A9-A41953660680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5ACCF9E-77AE-453D-A1A9-A41953660680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5ACCF9E-77AE-453D-A1A9-A41953660680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
