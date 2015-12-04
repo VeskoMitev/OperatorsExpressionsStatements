@@ -1,6 +1,4 @@
-﻿
-
-namespace OperatorsExpressionsStatements
+﻿namespace OperatorsExpressionsStatements
 {
     using System;
 
