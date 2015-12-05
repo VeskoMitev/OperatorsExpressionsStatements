@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OperatorsExpressionsStatements
+﻿namespace OperatorsExpressionsStatements
 {
+    using System;
+    using System.Linq;
     class ChessboardGame
     {
         static void Main(string[] args)

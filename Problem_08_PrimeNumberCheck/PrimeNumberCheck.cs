@@ -17,9 +17,9 @@
             int inputNumber = Int32.Parse(Console.ReadLine());
 
 
-
+        
             bool result = true;
-            for (int i = 2; i < inputNumber - 1; i++)
+            for (int i = 2; i <= Math.Sqrt(inputNumber); i++)
             {
                 if (inputNumber % i == 0)
                 {
