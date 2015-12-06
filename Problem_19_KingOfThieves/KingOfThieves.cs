@@ -11,12 +11,8 @@
             int counter = 0;
             for (int i = 0; i < nSize; i++)
             {
-               
-
                 for (int j = 0; j < nSize; j++)
                 {
-                 
-                    
                     if (j>=center-counter && j <= center+counter)
                     {
                        Console.Write(aSymbol); 
@@ -25,7 +21,6 @@
                     {
                        Console.Write("-"); 
                     }
-                    
                 }
                 if (i < center) counter++;
                 else counter -- ;
