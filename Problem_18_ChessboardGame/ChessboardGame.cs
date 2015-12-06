@@ -23,7 +23,6 @@
                     else
                     {
                         scoreWhiteTeam += tmpString[i];
-                        
                     }
                 }
                 else
@@ -35,7 +34,6 @@
                     else
                     {
                         scoreWhiteTeam += tmpString[i];
-                        
                     } 
                 }
 
